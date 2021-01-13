@@ -184,3 +184,67 @@
 // }else{
 //     document.write('not')
 // }
+
+
+// assignment js 2
+
+// change case 
+
+// 1
+
+// var a = prompt('Enter your')
+// a = a.toUpperCase();
+// alert(a)
+
+// 2
+
+// var a = prompt('Enter your')
+// alert(a)
+
+// Strings: measuring length
+
+// 1
+
+// var a = prompt('Enter etc')
+// var b = a.length;
+// alert(b)
+
+// 2
+
+// string : finding segments
+
+// 1
+
+// var a = 'pakistani'
+// var b =a.lastIndexOf('n')
+// alert(b)
+
+// 2
+
+// 3
+
+// var a ='The quick brown fox jumps over the lazy dog'
+// var b =a.indexOf('dog')
+// alert(b)
+
+// String: finding a character at a location
+
+// 1
+
+// var a = 'pakistani'
+// var b =a.charAt(3)
+// alert(b)
+
+// String : replacing characters
+
+// 1
+
+// var a = 'Hyder,islam'
+// var b = a.replace('Hyder,islam', 'Hyderbad')
+// alert(b)
+
+// 2
+
+// var a = 'and'
+// var b = a.replace('and','&')
+// alert(b)
