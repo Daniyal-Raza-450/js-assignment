@@ -245,6 +245,92 @@
 
 // 2
 
-// var a = 'and'
-// var b = a.replace('and','&')
+// var a = 'Ali and Sami are best friend. They play cricket and football todether.'
+// var b = a.replace(/and/g,'&' )
+// alert(b)
+
+
+// Rounding numbers
+
+// 1
+
+// B
+
+// var a = .34567
+// a=Math.round(a)
+// alert(a)
+
+// C
+
+// var a = 1.34567
+// a=Math.floor(a)
+// alert(a)
+
+// D
+
+// var a =1.34567
+// a=Math.ceil(a)
+// alert(a)
+
+// 2
+
+// B
+
+// var b = prompt('Enter Number')
+// var c = b
+// c=Math.round(b)
+// alert(c)
+
+// C
+
+// var b = prompt('Enter Number')
+// var c = b
+// c=Math.floor(b)
+// alert(c)
+
+// D
+
+// var b = prompt('Enter Number')
+// var c = b
+// c=Math.ceil(b)
+// alert(c)
+
+// Generating random numbers
+
+// 1
+
+// var a= prompt('Enter Number')
+// a=Math.random(a)
+// alert(a)
+
+// 2
+
+// var a = Math.random()*3
+// alert(a)
+
+// 3
+
+// var a = Math.random()*10
+// alert(a)
+
+// Converting String to integers and decimals
+
+// 1
+
+// var age = prompt('Enter weight')
+// var b = typeof(age)
+// alert(b)
+
+// converting string to numbers, numbers to string
+
+// 1
+
+// var a =23
+// var b =a.toString()
+// alert(b)
+
+// 2
+
+// var a = '50'
+// var b = Number(a)
 // alert(b)
