@@ -334,3 +334,61 @@
 // var a = '50'
 // var b = Number(a)
 // alert(b)
+
+
+
+// assignment no 3 js
+
+// chapter no 31
+
+
+
+// DATE METHODS
+
+// 1
+
+// var a = new Date
+// alert(a)
+
+// 2
+
+
+// var a = ['junuary','February','March','April','May','June','July','August','September','October','November','December']
+// var d = new Date()
+// var b = d.getMonth()
+// var c = a[b]
+// alert(c)
+
+
+// 3
+
+// var days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+//  var a = new Date();
+//  var b = a.getDay();
+//  var c ="Today is"+" " + days[b];
+//  alert(c)
+
+// 4
+
+// var a = prompt()
+// var days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+// var s = "sun"
+// var sa = "sat"
+//   var f;
+//   var z= "it's Fun day";
+//   var m;
+//   var n= "warking day"
+//   if ((a === s)||a === sa){
+//       f=z;
+//       alert(f)
+//   }
+
+//      else {
+        
+//          m=n;
+//     alert(m)
+// }
+
+
+// 5
+
