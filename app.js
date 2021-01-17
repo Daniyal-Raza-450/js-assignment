@@ -392,3 +392,34 @@
 
 // 5
 
+// var a =prompt()
+// if (a < 16  ){
+//     alert('First fifiteen days of the month')
+// }else if ( a>15 ){
+//     alert("Last days if the month.")
+// }
+
+
+
+// 6
+
+
+// var d = new Date()
+// var sec =d.getSeconds()
+// alert(sec)
+
+
+// 7
+
+// var a = prompt()
+// var b = 'noon'
+// if (a ===b ){
+//     alert('AM')
+// }else {
+//     alert('PM')
+// }
+
+// 
+
+//  13
+
