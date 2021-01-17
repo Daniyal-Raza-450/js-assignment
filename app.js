@@ -419,7 +419,89 @@
 //     alert('PM')
 // }
 
-// 
+// //8
+// var d = new Date()
+// d.setFullYear(2019)
+// d.setMonth(12)
+// d.setDate(31)
+// d.setHours(12)
+// d.setMinutes(60)
+// d.setSeconds(60)
+// d.setMilliseconds(1000)
 
-//  13
 
+// alert(d)
+
+
+
+
+//   13
+
+
+
+// var Birthday = new Date('sep 19 1998')
+// var a = new Date()
+// var current =a.getTime()
+// var birth=Birthday.getTime()
+// var total = (current - birth) /(1000*60*60*24*30*12)
+// alert(total)
+
+
+// Function
+
+// function hellow () {
+
+//     var a = new Date()
+//     var b = a.getHours()
+// var c = a.getMinutes()
+// alert('hellow : ' + a +':'+ b + ':' + c)
+// }
+// hellow()
+
+// 2
+
+// function name (fname = 'Daniyal', lname= 'Raza'){
+
+//     alert(fname+ ' '+ lname) 
+// }
+// name()
+
+// 3
+
+// function sum(a,b,c){
+//     alert(a+b +c)
+// }
+// sum(20,30 ,11)
+
+// 4
+
+// function name(finalAmount){
+//     var a= finalAmount -100
+//     return a;
+// }
+// function total(){
+//     var amount = name (310)
+//     alert(amount)
+
+// }
+// total()
+
+// 11
+
+// function str(){
+//     var a = prompt('')
+//     var b= a.toUpperCase('')
+//     var c =b. toString()
+//     alert(c)
+// }
+// str()
+
+// 12
+
+// function str(){
+//     var a = prompt()
+//     var b=a.toLowerCase()
+//     var c = b.toString()
+//     alert(c)
+// }
+// str()
