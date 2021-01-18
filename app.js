@@ -505,3 +505,23 @@
 //     alert(c)
 // }
 // str()
+
+
+// function| swutch | while
+
+
+// 1
+
+// var day = prompt()
+// switch(day){
+//     case 'mon':
+//     alert( 'working')
+//     break 
+//     case 'sun':
+//     alert('not working')
+//     break
+//     default:
+//         alert('enter sun ||  mon')
+
+// }
+
